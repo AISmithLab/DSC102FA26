@@ -1,9 +1,9 @@
 # Site settings
 course_name: DSC 102 - Systems for Scalable Analytics
 course_description: "Data science professionals ought to be familiarized with data systems from a user's standpoint, as opposed to the conventional approach of a system implementer."
-course_semester: "Fall 2024"
+course_semester: "Fall 2026"
 
-baseurl: "/DSC102FA24" # the subpath of your site, e.g. /blog/
+baseurl: "/DSC102FA26" # the subpath of your site, e.g. /blog/
 url: "http://haojian.github.io" # the base hostname & protocol for your site
 
 schoolname: "University of California San Diego"
