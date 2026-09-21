@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-11-21
+date: 2026-11-13
 title: Parallism Basics - Replication
 tldr: "Data replication"
 thumbnail: /static_files/presentations/placeholder.jpg

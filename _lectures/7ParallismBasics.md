@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-11-12
+date: 2026-10-30
 title: Parallism Basics - Task Parallelism
 tldr: "Task Parallelism"
 thumbnail: /static_files/presentations/placeholder.jpg

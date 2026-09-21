@@ -10,9 +10,9 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## Administrivia
 
-**Lectures**: TuTh 02:00PM-03:20PM; FAH - 1450
+**Lectures**: MWF 02:00PM-02:50PM; In person @ Center Hall Room 115
 
-**Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: Tu 4:00 pm-5:00 pm
+**Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: TBD
 
 **Discussion**: The TAs will conduct one dicussion session before each PA on Zoom to help you get started with the assignment.
 
@@ -23,18 +23,21 @@ A major component of this course is hands-on Python programming to implement dat
     - Attending the lectures is not mandatory. But there are Peer Instruction activities involving discussing questions with peers in class only (details below). There will be other interactive activities as well.
     - We will use Slack for asynchronous discussions and questions.
 
-- 3 Programming Assignments (PAs).
+- 6 Programming Assignments (PAs).
     - See the PAs page for the PA schedule and details.
     - There are no late days for the PAs. Plan your work accordingly.
 
-- 12 Peer Instruction activities.
+- 10 Peer Instruction activities.
     - They will be held live in class through Google Forms/Sli.do, spread randomly across the quarter.
     - Each activity will have 2 multiple-choice questions (MCQ). Quantitative problems may exist but only the final answer will need to be selected. No partial credits.
     - For each question, you must first answer individually. Then you can discuss the question with you neighbor(s). After that, you can answer the question again.
     - These activities are also open books/notes/electronics/Web.
     - Grading is based on earnest participation in the whole activity.
     - If you miss an activity, you will get no credit for it, unless you notify the instructor in advance with a university approved reason.
-    - You can miss up to 2 activities out of the 12 without losing credit.
+    - At the beginning of the quarter, you will choose how these activities count toward your grade:
+        - **Option 1 (participate)**: the in-class peer instruction activities are worth 15% and the cumulative final is worth 30%.
+        - **Option 2 (opt out)**: the peer instruction activities are not counted, and that 15% is added to the cumulative final, making it worth 45%.
+    - Your choice is made once at the start of the quarter and cannot be changed later.
     - Make sure to bring your laptop/smartphone to every lecture. 
 
 
@@ -55,15 +58,21 @@ A major component of this course is hands-on Python programming to implement dat
 
 2. Proficiency in Python programming.
 
+## AI Policy
+
+You are encouraged to use AI tools you like.
+
 ## Grading (Tentative)
 
 **Components**: 
 
 - Midterm exam: 15%
-- Programming assignments: 8% + 16% + 16%
-- In-class peer instruction activities: 10%
-- Cumulative final: 35%
+- Programming assignments: 40% total across the 6 PAs (per-PA weights TBD)
+- In-class peer instruction activities: 15% (Option 1) or 0% (Option 2)
+- Cumulative final: 30% (Option 1) or 45% (Option 2)
 - Extra credit: 2% (likely)
+
+You choose between Option 1 and Option 2 at the beginning of the quarter (see the peer instruction activities above). Either way, the components total 100%.
 
 
 **Cutoffs**: 
@@ -141,8 +150,8 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 
 ## Exam Dates
 
-- Midterm: 11/05/2024 Tuesday. During class.
-- Final Exam: 3:00-6:00 PM PT, 12/12/2024 Th
+- Midterm: 10/28/2026 Wednesday. During class. In person @ Center Hall Room 115.
+- Final Exam: 3:00-5:59 PM PT, 12/08/2026 Tuesday. In person @ Center Hall Room 115.
 
 ## Classroom Rules
 - <code>No late days</code> for submitting the PAs. No extensions on the final exam time window. Plan all your work well up front accordingly.

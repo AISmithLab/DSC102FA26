@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-11-01
+date: 2026-10-26
 title: Cloud Computing Basics
 tldr: "Cloud computing."
 thumbnail: /static_files/presentations/placeholder.jpg

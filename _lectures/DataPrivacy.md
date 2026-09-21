@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-12-06
+date: 2026-12-04
 title: Security and Privacy in Data Science
 tldr: "Security and Privacy"
 thumbnail: /static_files/presentations/placeholder.jpg

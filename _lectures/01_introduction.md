@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-09-27
+date: 2026-09-25
 title: Introduction 
 tldr: "Course goals, content, format, pre-requisites, grading"
 thumbnail: /static_files/presentations/placeholder.jpg

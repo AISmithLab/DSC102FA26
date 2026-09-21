@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-12-03
+date: 2026-11-25
 title: Model building
 tldr: "Feature engineering, model selection, hyper parameter tuning"
 thumbnail: /static_files/presentations/placeholder.jpg
