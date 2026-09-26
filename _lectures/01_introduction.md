@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/1Intro.pdf
-      name: Introduction & logistics
+    # - url: /static_files/presentations/1Intro.pdf
+    #   name: Introduction & logistics
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

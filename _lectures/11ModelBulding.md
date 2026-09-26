@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/11ModelBuilding.pdf
-      name: Model Building Slides
+    # - url: /static_files/presentations/11ModelBuilding.pdf
+    #   name: Model Building Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

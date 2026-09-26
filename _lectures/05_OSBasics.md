@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/5OSBasics.pdf
-      name: OS Basics Slides
+    # - url: /static_files/presentations/5OSBasics.pdf
+    #   name: OS Basics Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/10DataflowSystems.pdf
-      name: Data flow systems Slides
+    # - url: /static_files/presentations/10DataflowSystems.pdf
+    #   name: Data flow systems Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

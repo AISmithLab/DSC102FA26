@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/4MemoryHierarchy.pdf
-      name: Memory Hierarchy
+    # - url: /static_files/presentations/4MemoryHierarchy.pdf
+    #   name: Memory Hierarchy
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

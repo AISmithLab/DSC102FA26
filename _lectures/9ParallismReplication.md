@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/9DataParallelismReplication.pdf
-      name: Replication
+    # - url: /static_files/presentations/9DataParallelismReplication.pdf
+    #   name: Replication
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
