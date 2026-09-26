@@ -17,8 +17,8 @@ permalink: /assignments/
     <tr><td>PA0</td><td>Set up an AI-assisted coding environment and complete a bug-fix challenge</td></tr>
     <tr><td>PA1</td><td>Set up AWS and Dask</td></tr>
     <tr><td>PA2</td><td>Explore data with Dask</td></tr>
-    <tr><td>PA3</td><td>Machine learning engineering challenge 1</td></tr>
-    <tr><td>PA4</td><td>Machine learning engineering challenge 2</td></tr>
+    <tr><td>PA3</td><td>Machine learning competition challenge 1</td></tr>
+    <tr><td>PA4</td><td>Machine learning competition challenge 2</td></tr>
     <tr><td>PA5</td><td>Feature engineering and model selection with Spark</td></tr>
   </tbody>
 </table>
