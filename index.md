@@ -35,8 +35,8 @@ A major component of this course is hands-on Python programming to implement dat
     - Grading is based on earnest participation in the whole activity.
     - If you miss an activity, you will get no credit for it, unless you notify the instructor in advance with a university approved reason.
     - At the beginning of the quarter, you will choose how these activities count toward your grade:
-        - **Option 1 (participate)**: the in-class peer instruction activities are worth 15% and the cumulative final is worth 30%.
-        - **Option 2 (opt out)**: the peer instruction activities are not counted, and that 15% is added to the cumulative final, making it worth 45%.
+        - **Option 1 (participate)**: the in-class peer instruction activities are worth 10% and the cumulative final is worth 25%.
+        - **Option 2 (opt out)**: the peer instruction activities are not counted, and 10% is added to the cumulative final, making it worth 35%.
     - Your choice is made once at the start of the quarter and cannot be changed later.
     - Make sure to bring your laptop/smartphone to every lecture. 
 
@@ -67,9 +67,9 @@ You are encouraged to use AI tools you like.
 **Components**: 
 
 - Midterm exam: 15%
-- Programming assignments: 40% total across the 6 PAs (per-PA weights TBD)
-- In-class peer instruction activities: 15% (Option 1) or 0% (Option 2)
-- Cumulative final: 30% (Option 1) or 45% (Option 2)
+- Programming assignments: 50% total (PA0: 4%; PA1: 4%; PA2: 8%; PA3: 12%; PA4: 12%; PA5: 10%)
+- In-class peer instruction activities: 10% (Option 1) or 0% (Option 2)
+- Cumulative final: 25% (Option 1) or 35% (Option 2)
 - Extra credit: 2% (likely)
 
 You choose between Option 1 and Option 2 at the beginning of the quarter (see the peer instruction activities above). Either way, the components total 100%.
@@ -159,4 +159,3 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 - Please review UCSD's honor code and policies and procedures on [academic integrity](https://academicintegrity.ucsd.edu/) here. If plagiarism is detected in your code, or if we detect collusion on the graded quizzes or exams, or if you are found to be using someone else's clickers, or if any other form of academic integrity violation is identified, you will get zero for that component of your score and get downgraded substantially. I will also notify the University authorities for appropriate disciplinary action to be taken, up to and including expulsion from the University.
 - Please review UCSD's principles of community and our commitment to creating an inclusive learning environment on [this website](https://ucsd.edu/about/principles.html).
 - Harassment, discrimination, or intimidation of any form against any student will not be tolerated in class or on Slack. Please review UCSD's policies on dealing with harassment and discrimination on [this website](https://ophd.ucsd.edu/).
-

@@ -222,6 +222,56 @@ h1 /* .post-title */ {
     }
 }
 
+.update-notice {
+    margin: 0 0 $spacing-unit;
+    padding: 16px 20px;
+    color: #173b57;
+    background: #eef7ff;
+    border-left: 5px solid $primary-color;
+    border-radius: 4px;
+
+    strong {
+        display: block;
+        margin-bottom: 4px;
+        color: #174f7a;
+        font-family: 'Titillium Web', sans-serif;
+        font-size: 1.08em;
+        font-weight: 600;
+    }
+
+    p {
+        margin: 0;
+    }
+}
+
+.assignment-overview {
+    width: 100%;
+    margin: 6px 0 ($spacing-unit + 6px);
+    border-collapse: collapse;
+
+    th,
+    td {
+        padding: 9px 10px;
+        text-align: left;
+        color: $text-color;
+        background: #fff;
+    }
+
+    th {
+        padding-top: 6px;
+        padding-bottom: 7px;
+        font-family: 'Titillium Web', sans-serif;
+        font-weight: 600;
+    }
+
+    th:first-child,
+    td:first-child {
+        width: 100px;
+        font-weight: 600;
+    }
+
+}
+
 						.footnotes ol li {list-style-type:decimal;}
 						.footnotes ol {font-size:.85em; color:#666666;}	
 	
