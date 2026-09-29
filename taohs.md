@@ -5,9 +5,7 @@ permalink: /taohs/
 ---
 
 
-- You are welcome to attend the office hours of any TA for any PA. When possible, please attend the office hours of the TA assigned to your PA.
-
-- Qiyu Li's and Yidan Mao's office hours are in person in HDSI 355. Xuan Liu's office hours are held on Zoom; the link will be announced.
+- You are welcome to attend the office hours of any TA for any PA.
 
 - Qiyu Li's OHs:
     - Mondays, 5:00–6:00 p.m., HDSI 355
