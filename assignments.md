@@ -2,26 +2,12 @@
 layout: assignments
 title: Assignments
 permalink: /assignments/
+ai_resources: true
 ---
 
 ## Instructions and Caveats
 
-<table class="assignment-overview">
-  <thead>
-    <tr>
-      <th>Assignment</th>
-      <th>Focus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>PA0</td><td>Set up an AI-assisted coding environment and complete a bug-fix challenge</td></tr>
-    <tr><td>PA1</td><td>Set up AWS and Dask</td></tr>
-    <tr><td>PA2</td><td>Explore data with Dask</td></tr>
-    <tr><td>PA3</td><td>Machine learning competition challenge 1</td></tr>
-    <tr><td>PA4</td><td>Machine learning competition challenge 2</td></tr>
-    <tr><td>PA5</td><td>Feature engineering and model selection with Spark</td></tr>
-  </tbody>
-</table>
+{% include assignment_list.html %}
 
 ### Team composition
 
@@ -40,4 +26,4 @@ permalink: /assignments/
 
 ### AI interaction history
 
-For every programming assignment, submit the complete interaction history from the AI tools you used. The history should include your prompts, the AI's responses, and the iterations that influenced your final solution. Instructions for exporting and submitting this history will be provided with the assignment setup details.
+For each programming assignment in which your team uses AI, submit the complete interaction history from the AI tools you used. The history should include your prompts, the AI's responses, and the iterations that influenced your final solution. If your team does not use AI for an assignment, no AI interaction history is required. Instructions for exporting and submitting this history will be provided with the assignment setup details.
