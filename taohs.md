@@ -11,7 +11,7 @@ permalink: /taohs/
     - Mondays, 5:00–6:00 p.m., HDSI 355
 
 - Xuan Liu's OHs:
-    - Thursdays, 8:00–9:00 a.m., Zoom (link TBD)
+    - Thursdays, 8:00–9:00 a.m., [Zoom](https://ucsd.zoom.us/j/2527953996)
 
 - Yidan Mao's OHs:
     - Fridays, 10:00–11:00 a.m., HDSI 355
