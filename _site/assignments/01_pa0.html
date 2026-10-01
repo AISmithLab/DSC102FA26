@@ -11,8 +11,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title> Assignment #0 - Setting up AWS and Dask - DSC 102 - Systems for Scalable Analytics / Fall 2026 </title>
-  <meta name="description" content="">
+  <title> Assignment #0 - AI Environment Setup and Bug-Fix Challenge - DSC 102 - Systems for Scalable Analytics / Fall 2026 </title>
+  <meta name="description" content="OverviewSelect one problem from the Human-SWE-Bench Editor’s Picks list on AI Coding Gym to complete for this assignment.In this challenge, you will set up a...">
   
   <link rel="stylesheet" href="/DSC102FA26/_css/main.css">
   <link rel="canonical" href="http://localhost:4000/DSC102FA26/assignments/01_pa0">
@@ -110,8 +110,8 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Assignment #0 - Setting up AWS and Dask</h1>
-    <p class="post-meta">Released on Friday 09/25/2026</p>
+    <h1 class="post-title">Assignment #0 - AI Environment Setup and Bug-Fix Challenge</h1>
+    <p class="post-meta">Released on Monday 09/28/2026</p>
   </header>
 
   <div>
@@ -120,22 +120,12 @@
     
     <p style="font-weight: bold">Download
       
-      [<a href="/DSC102FA26/static_files/pa0_files/PA0.pdf">Problem Statement</a>]
       
       
       
       
-      [<a href="/DSC102FA26/static_files/pa0_files/PA0_Grading_Rubric.pdf">Grading Rubric</a>]
       
       
-      [<a href="/DSC102FA26/static_files/pa0_files/PA0_Discussion_Session.pdf">Discussion Slides</a>]
-      
-      
-      [<a href="/DSC102FA26/static_files/pa0_files/dask_demo_notebook.ipynb">Dask Demo Notebook</a>]
-      
-      
-      
-      [<a href="/DSC102FA26/static_files/pa0_files/PA0_System_Setup_Summary.pdf">System Setup Summary</a>]
       
     </p>
 
@@ -150,12 +140,92 @@
   </div>
 
   <br />
-  <article class="post-content">
-    
+  <article class="post-content assignment-content">
+    <h2 id="overview">Overview</h2>
+
+<p>Select one problem from the <a href="https://aicodinggym.com/challenges/?view=picks&amp;type=Human-SWE-Bench">Human-SWE-Bench Editor’s Picks list on AI Coding Gym</a> to complete for this assignment.</p>
+
+<p>In this challenge, you will set up a local AI-assisted coding environment and use AI agents to solve a real software bug-fix problem from AI Coding Gym. Your goal is to produce a correct, well-tested fix while learning how to inspect, direct, and improve an AI agent’s work.</p>
+
+<p>Frontier AI agents often get close without fully resolving a bug. Careful diagnosis, targeted prompting, code inspection, and regression testing can make the difference.</p>
+
+<p>If you do not have access to AI tools, see the <a href="/DSC102FA26/assignments/#ai-resources">AI resources for students</a> for student offers and setup instructions.</p>
+
+<h2 id="learning-loop">Learning Loop</h2>
+
+<ol>
+  <li><strong>Inspect the AI agent’s work.</strong> Download the agent’s code and reasoning trace from the platform. Study how it diagnosed the bug, which files it changed, what tests it ran, and what it overlooked.</li>
+  <li><strong>Attempt the challenge using AI as a tool.</strong> Work in your local coding environment with AI coding assistants. Use your own judgment to redirect the agent, revise its changes, and strengthen its tests. You may use any AI tools you like.</li>
+  <li><strong>Submit and compare results.</strong> Submit your solution through AI Coding Gym and compare its result with the AI baseline and your peers.</li>
+  <li><strong>Verify your solution against the golden result.</strong> Use the platform’s comparison feature to compare your solution with the ground-truth solution. Review the differences and confirm why your fix is correct.</li>
+  <li><strong>Write a reflection.</strong> Submit the structured reflection described below.</li>
+</ol>
+
+<p><strong>Note:</strong> A few groups may volunteer to share their experience during discussion for extra credit (see arrangements below). Describe the approach your group tried, where the AI struggled, how you evaluated or redirected it, and what you learned. Both successful and unsuccessful attempts are valuable because they help the class compare problem-solving strategies.</p>
+
+<h2 id="deliverables">Deliverables</h2>
+
+<h3 id="1-screenshot-of-passed-results">1. Screenshot of Passed Results</h3>
+
+<p>Submit a screenshot showing that your selected AI Coding Gym challenge passed. Your screenshot must clearly include:</p>
+
+<ul>
+  <li>Your name (open the profile menu if needed).</li>
+  <li>The challenge <code class="language-plaintext highlighter-rouge">problem_id</code>.</li>
+  <li>The <strong>Passed</strong> status.</li>
+</ul>
+
+<p>Example:</p>
+
+<p><img src="/DSC102FA26/_images/screenshots/pa0-passed-results-example.png" alt="Example AI Coding Gym results screenshot showing the student's name, challenge problem ID, and Passed status" style="max-width: 100%; height: auto;" /></p>
+
+<h3 id="2-ai-conversation-history">2. AI Conversation History</h3>
+
+<p>Submit the complete conversation history from the AI tools you used, including your prompts, the AI’s responses, and the meaningful iterations that led to your final solution.</p>
+
+<h3 id="3-reflection-statement">3. Reflection Statement</h3>
+
+<p>Submit a reflection statement that includes:</p>
+
+<ul>
+  <li>The names of all team members.</li>
+  <li>The AI Coding Gym user ID, GitHub handle, and email address for the account used to submit the solution.</li>
+  <li>A short description of how your team worked with AI. For example, you may discuss challenges or failures the AI encountered and how your team diagnosed and fixed them.</li>
+</ul>
+
+<h2 id="grading">Grading</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th style="text-align: right">Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Passing result with a correct submission and valid AI conversation logs</td>
+      <td style="text-align: right">75%</td>
+    </tr>
+    <tr>
+      <td>Reflection write-up</td>
+      <td style="text-align: right">25%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="timeline">Timeline</h2>
+
+<ul>
+  <li><strong>Released:</strong> September 28, 2026</li>
+  <li><strong>Optional discussion sharing:</strong> October 7 or 14, 2026 (depending on available time slots)</li>
+  <li><strong>Due Date:</strong> October 9, 2026 at 11:59 p.m. UTC</li>
+</ul>
 
   </article>
 
 </div>
+
       </div>
     </div>
 

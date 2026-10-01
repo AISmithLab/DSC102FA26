@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/DATASP.pdf
-      name: Security Privacy Slides
+    # - url: /static_files/presentations/DATASP.pdf
+    #   name: Security Privacy Slides
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

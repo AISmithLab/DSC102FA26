@@ -5,13 +5,13 @@ permalink: /taohs/
 ---
 
 
-- You are welcome to use the office hours of any TA for any PA. However, please try to stick to respective TAs OH as listed above.
-
-- The TA OHs will be in-person only at the open area near HDSI 354.
+- You are welcome to attend the office hours of any TA for any PA.
 
 - Qiyu Li's OHs:
-    - Regular OHs: TBD
+    - Mondays, 5:00–6:00 p.m., HDSI 355
 
 - Xuan Liu's OHs:
-    - Regular OHs: TBD
+    - Thursdays, 8:00–9:00 a.m., [Zoom](https://ucsd.zoom.us/j/2527953996)
 
+- Yidan Mao's OHs:
+    - Fridays, 10:00–11:00 a.m., HDSI 355
