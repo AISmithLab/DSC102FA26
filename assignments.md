@@ -39,3 +39,27 @@ For each programming assignment in which your team uses AI, submit the complete 
 5. Submit the downloaded file. If there are multiple files, compress all relevant session files from your team into `session_log.zip` for submission.
 
 <a href="{{ '/_images/screenshots/clicodelog-session-raw.jpg' | prepend: site.baseurl }}"><img src="{{ '/_images/screenshots/clicodelog-session-raw.jpg' | prepend: site.baseurl }}" alt="Full CLIcodeLog session view with the Raw download button highlighted in red" style="display: block; width: 100%; height: auto; margin: 1.5rem 0; border: 1px solid #ddd; border-radius: 6px;"></a>
+
+## Student presentations
+
+You may volunteer to present your experience with the AI Coding Gym assignments during discussion and earn extra credit. Participation is completely optional, and extra credit applies only to the presenter(s). You can share what you tried, where the AI helped or struggled, and what you learned through the process.
+
+We tentatively plan to discuss bug fixes (**PA0**) on **October 7 and 14**, using the remaining discussion time after the other PA tutorials. Presentations on the MLE challenges (**PA3/PA4**) are tentatively planned for **November 4 and 18**. If you have an AI workflow or personal experience to share beyond the assignments, you may volunteer to present it as well. Scheduling is flexible and depends on the time available in discussion.
+
+Each presentation should focus on a small, coherent topic. We aim to cover diverse perspectives on how people work with AI and effective strategies for collaboration.
+
+You can sign up to present through the [form](https://forms.gle/YLe6DLxHodm4xbpv9). Please indicate your topic and mark your available and preferred presentation times. Please choose a presentation option based on the scope of your topic and the time you need:
+
+- **Lightning Talk:** 5 minutes.
+- **Standard Talk:** 10 minutes.
+- **Extended Talk:** 15 minutes or more, approved on a case-by-case basis.
+
+Each presentation will be followed by 1–2 minutes of Q&A with the TA and audience. Slides are strongly encouraged but not required. Longer presentations should have enough substance to justify the time. These are especially encouraged for multiple presenters or an in-depth discussion of complex challenges. However, presentations are judged by quality, not length.
+
+We will regularly review sign-ups, subject to available discussion time, and notify selected presenters **by 4 p.m. Pacific Time the day before the discussion**.
+
+### Preparing your talk
+
+Practice your talk in advance and stay within your time slot. Make your main takeaway clear. One clear lesson is better than five competing points. Consider what your classmates already know and explain any background they need. Start with concrete examples to make your main point easier to understand.
+
+For practical advice on preparing and giving a talk, see Jonathan Shewchuk’s [Giving an Academic Talk (UC Berkeley)](https://people.eecs.berkeley.edu/~jrs/speaking.html) and Geoffrey Gordon’s [Advice for Technical Speaking (Carnegie Mellon)](https://www.cs.cmu.edu/~ggordon/speaking-advice.html).
