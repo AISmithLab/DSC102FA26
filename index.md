@@ -14,7 +14,7 @@ A major component of this course is hands-on Python programming to implement dat
 
 **Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: Wednesdays, 12:45–1:45 p.m.
 
-**Discussion**: The TAs will conduct one dicussion session before each PA on Zoom to help you get started with the assignment.
+**Discussion**: W 03:00PM-03:50PM; In person @ Ledden Auditorium 2250, or on Zoom with advance notice. The TAs lead PA tutorials and assignment Q&A. Some sessions also include optional [student presentations]({{ "/assignments/#student-presentations" | prepend: site.baseurl }}) on experiences working with AI.
 
 ## Course Content and Format
 
