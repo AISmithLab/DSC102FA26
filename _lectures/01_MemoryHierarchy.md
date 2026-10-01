@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-10-14
+date: 2026-09-30
 title: Memory hierarchy
 tldr: "Basics of Processors, Memory Abstraction, Memory Hierarchy, Locality"
 thumbnail: /static_files/presentations/placeholder.jpg
@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/4MemoryHierarchy.pdf
+    - url: /static_files/presentations/L1-memoryhierachy.pdf
       name: Memory Hierarchy
 ---
 <!-- **Suggested Readings:**
