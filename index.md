@@ -34,6 +34,7 @@ A major component of this course is hands-on Python programming to implement dat
     - These activities are also open books/notes/electronics/Web.
     - Grading is based on earnest participation in the whole activity.
     - If you miss an activity, you will get no credit for it, unless you notify the instructor in advance with a university approved reason.
+    - You can miss up to 1 activity out of the 10 without losing credit.
     - At the beginning of the quarter, you will choose how these activities count toward your grade:
         - **Option 1 (participate)**: the in-class peer instruction activities are worth 10% and the cumulative final is worth 25%.
         - **Option 2 (opt out)**: the peer instruction activities are not counted, and 10% is added to the cumulative final, making it worth 35%.
