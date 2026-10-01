@@ -61,7 +61,7 @@ A major component of this course is hands-on Python programming to implement dat
 
 ## AI Policy
 
-You are encouraged to use AI tools you like.
+You are encouraged to use AI tools of your choice. For each programming assignment, your team must attest whether it used AI. If AI was used, your team must upload the full conversation history from all AI tools used.
 
 ## Grading (Tentative)
 
