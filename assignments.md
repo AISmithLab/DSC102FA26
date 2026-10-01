@@ -26,4 +26,16 @@ ai_resources: true
 
 ### AI interaction history
 
-For each programming assignment in which your team uses AI, submit the complete interaction history from the AI tools you used. The history should include your prompts, the AI's responses, and the iterations that influenced your final solution. If your team does not use AI for an assignment, no AI interaction history is required. Instructions for exporting and submitting this history will be provided with the assignment setup details.
+For each programming assignment in which your team uses AI, submit the complete interaction history from the AI tools you used. The history should include your prompts, the AI's responses, and the iterations that influenced your final solution. If your team does not use AI for an assignment, no AI interaction history is required. See the export instructions below.
+
+## Export AI conversation history
+
+[CLIcodeLog](https://github.com/monk1337/clicodelog) is an open-source tool for browsing conversations from Codex, Claude Code, and Gemini CLI in one interface. It organizes your locally saved sessions by project or working directory. Follow these steps to export and submit your session logs:
+
+1. Follow the repository’s installation and setup instructions to install the latest source version.
+2. Select your AI tool and search for your assignment’s project.
+3. Open the sessions and inspect their logs to identify those relevant to the assignment.
+4. Use the <strong style="color: #000;">Raw</strong> button (not Export!) to download each relevant session in JSON or JSONL format.
+5. Submit the downloaded file. If there are multiple files, compress all relevant session files from your team into `session_log.zip` for submission.
+
+<a href="{{ '/_images/screenshots/clicodelog-session-raw.jpg' | prepend: site.baseurl }}"><img src="{{ '/_images/screenshots/clicodelog-session-raw.jpg' | prepend: site.baseurl }}" alt="Full CLIcodeLog session view with the Raw download button highlighted in red" style="display: block; width: 100%; height: auto; margin: 1.5rem 0; border: 1px solid #ddd; border-radius: 6px;"></a>
