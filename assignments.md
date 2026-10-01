@@ -7,6 +7,8 @@ ai_resources: true
 
 ## Instructions and Caveats
 
+All assignment submissions must be made through Canvas.
+
 {% include assignment_list.html %}
 
 ### Team composition
