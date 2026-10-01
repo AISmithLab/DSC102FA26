@@ -12,7 +12,7 @@ A major component of this course is hands-on Python programming to implement dat
 
 **Lectures**: MWF 02:00PM-02:50PM; In person @ Center Hall Room 115
 
-**Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: TBD
+**Instructor**: [Haojian Jin](http://haojianj.in/); Office: HDSI 341; Office Hours: We 12:45 pm-1:45 pm
 
 **Discussion**: The TAs will conduct one dicussion session before each PA on Zoom to help you get started with the assignment.
 
