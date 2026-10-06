@@ -151,7 +151,7 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 
 ## Exam Dates
 
-- Midterm: 10/23/2026 Friday. During class. In person @ Center Hall Room 115.
+- Midterm: 10/28/2026 Wednesday. During class. In person @ Center Hall Room 115.
 - Final Exam: 3:00-5:59 PM PT, 12/08/2026 Tuesday. In person @ Center Hall Room 115.
 
 ## Classroom Rules
