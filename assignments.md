@@ -32,7 +32,7 @@ For each programming assignment in which your team uses AI, submit the complete 
 
 ## Export AI conversation history
 
-[CLIcodeLog](https://github.com/monk1337/clicodelog) is an open-source tool for browsing conversations from Codex, Claude Code, and Gemini CLI in one interface. It organizes your locally saved sessions by project or working directory. Follow these steps to export and submit your session logs:
+[CLIcodeLog](https://github.com/AISmithLab/clicodelog) is an open-source tool for browsing conversations from Codex, Claude Code, Gemini CLI, Github Copilot and Cursor in one interface. It organizes your locally saved sessions by project or working directory. Follow these steps to export and submit your session logs:
 
 1. Follow the repository’s installation and setup instructions to install the latest source version.
 2. Select your AI tool and search for your assignment’s project.
