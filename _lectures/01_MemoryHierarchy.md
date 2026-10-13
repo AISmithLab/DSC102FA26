@@ -11,6 +11,8 @@ links:
     #   name: codes
     - url: /static_files/presentations/L1-memoryhierachy.pdf
       name: Memory Hierarchy
+    - url: /static_files/L1_files/L1-memoryhierachy-code.zip
+      name: Example programs
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
