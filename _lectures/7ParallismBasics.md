@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-10-30
-title: Parallism Basics - Task Parallelism
+title: Parallism Basics - Task Parallelism (date tentative)
 tldr: "Task Parallelism"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: /static_files/presentations/7ParallismBasics.pdf
-    #   name: Parallism Basics Slides
+    - url: /static_files/presentations/L4-ParallelismBasics.pdf
+      name: Parallelism Basics
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

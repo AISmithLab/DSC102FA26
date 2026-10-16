@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-11-13
-title: Parallism Basics - Replication
+title: Parallism Basics - Replication (date tentative)
 tldr: "Data replication"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: /static_files/presentations/9DataParallelismReplication.pdf
-    #   name: Replication
+    - url: /static_files/presentations/L6-DataParallelism.pdf
+      name: Data Parallelism
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

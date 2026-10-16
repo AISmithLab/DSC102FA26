@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-10-19
-title: Operating System Basics
+title: Operating System Basics (date tentative)
 tldr: "Process management, Virtualization, Concurrency."
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: /static_files/presentations/5OSBasics.pdf
-    #   name: OS Basics Slides
+    - url: /static_files/presentations/L3-OSProcess.pdf
+      name: Operating Systems & Processes
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
