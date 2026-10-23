@@ -1,5 +1,6 @@
 ---
 type: lecture
+published: false
 date: 2026-10-26
 title: Cloud Computing Basics
 tldr: "Cloud computing."
