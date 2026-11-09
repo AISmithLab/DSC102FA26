@@ -234,7 +234,7 @@ h1 /* .post-title */ {
     border-radius: 4px;
     line-height: 1.45;
 
-    strong {
+    > strong {
         display: block;
         margin-bottom: 4px;
         color: #174f7a;
@@ -251,6 +251,11 @@ h1 /* .post-title */ {
         display: block;
         max-width: none;
     }
+}
+
+.update-notice--wide {
+    display: block;
+    max-width: none;
 }
 
 .assignment-overview {

@@ -4,6 +4,13 @@ title: page.title
 ---
 <div class="post">
 
+  {% if page.update_notice %}
+  <div class="update-notice update-notice--wide" role="note">
+    <strong>{{ page.update_notice.title }}</strong>
+    {{ page.update_notice.text | markdownify }}
+  </div>
+  {% endif %}
+
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">Released on {{ page.date | date: "%A" }} {{ page.date | date: site.dateformat }}</p>
