@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-11-25
-title: Model building
+title: Model Building Systems
 tldr: "Feature engineering, model selection, hyper parameter tuning"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
@@ -9,8 +9,8 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    # - url: /static_files/presentations/11ModelBuilding.pdf
-    #   name: Model Building Slides
+    - url: /static_files/presentations/L9-ModelBuilding.pdf
+      name: Model Building Systems
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)

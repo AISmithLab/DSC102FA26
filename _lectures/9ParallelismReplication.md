@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2026-11-13
-title: Parallelism Basics - Replication (date tentative)
-tldr: "Data replication"
+title: Data Parallelism
+tldr: "Sharding, BSP, distributed filesystems, data-parallel operations, hybrid parallelism"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
