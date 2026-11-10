@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-11-06
-title: Parallelism Basics - Scalable Data Access (date tentative)
+title: Parallelism Basics - Scalable Data Access
 tldr: "Scalable Data Access"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
