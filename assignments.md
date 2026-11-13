@@ -7,7 +7,7 @@ ai_resources: true
 
 ## Instructions and Caveats
 
-All assignment submissions must be made through Canvas.
+Submit PA3 and PA4 predictions through AI Coding Gym. Submit all other assignment deliverables through Canvas.
 
 {% include assignment_list.html %}
 
@@ -28,7 +28,7 @@ All assignment submissions must be made through Canvas.
 
 ### AI interaction history
 
-For each programming assignment in which your team uses AI, submit the complete interaction history from the AI tools you used. The history should include your prompts, the AI's responses, and the iterations that influenced your final solution. If your team does not use AI for an assignment, no AI interaction history is required. See the export instructions below.
+PA3 and PA4 both require a local AI coding agent and its complete, original session logs. For any other programming assignment in which your team uses AI, submit the complete interaction history from the AI tools you used. The history should include your prompts, the AI's responses, and the iterations that influenced your final solution. See the export instructions below.
 
 ## Export AI conversation history
 
